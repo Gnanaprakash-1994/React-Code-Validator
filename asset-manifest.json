@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/React-Code-Validator/static/css/main.3825a7fd.css",
-    "main.js": "/github.io/React-Code-Validator/static/js/main.7d2b573a.js",
-    "static/js/453.acf2c259.chunk.js": "/github.io/React-Code-Validator/static/js/453.acf2c259.chunk.js",
-    "index.html": "/github.io/React-Code-Validator/index.html",
-    "main.3825a7fd.css.map": "/github.io/React-Code-Validator/static/css/main.3825a7fd.css.map",
-    "main.7d2b573a.js.map": "/github.io/React-Code-Validator/static/js/main.7d2b573a.js.map",
-    "453.acf2c259.chunk.js.map": "/github.io/React-Code-Validator/static/js/453.acf2c259.chunk.js.map"
+    "main.css": "/React-Code-Validator/static/css/main.3825a7fd.css",
+    "main.js": "/React-Code-Validator/static/js/main.4e8839bb.js",
+    "static/js/453.acf2c259.chunk.js": "/React-Code-Validator/static/js/453.acf2c259.chunk.js",
+    "index.html": "/React-Code-Validator/index.html",
+    "main.3825a7fd.css.map": "/React-Code-Validator/static/css/main.3825a7fd.css.map",
+    "main.4e8839bb.js.map": "/React-Code-Validator/static/js/main.4e8839bb.js.map",
+    "453.acf2c259.chunk.js.map": "/React-Code-Validator/static/js/453.acf2c259.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3825a7fd.css",
-    "static/js/main.7d2b573a.js"
+    "static/js/main.4e8839bb.js"
   ]
 }
