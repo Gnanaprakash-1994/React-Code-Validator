@@ -1,4 +1,4 @@
-{ "homepage":"http://Gnanaprakash-1994/React-Code-Validator",
+{ "homepage":"http://Gnanaprakash-1994/github.io/React-Code-Validator",
   "name":"codevalidator",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,7 @@
   },
   "scripts": {
     "predeploy":"npm run build",
-    "deploy":"gh-pages -d dist",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
